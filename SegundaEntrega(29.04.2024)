@@ -1,3 +1,5 @@
+Código para interface gráfica da primeira tela do sistema: a tela de login, sem a conexão com o banco de dados. 
+
 package com.mycompany.interfacegraficaa3;
 
 import javax.swing.*;
